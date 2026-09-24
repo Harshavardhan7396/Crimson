@@ -1,0 +1,7 @@
+{
+  "name": "Aether Crimson — Global Logistics & Express Freight",
+  "description": "Next-generation autonomous import, export, rapid delivery, and global freight command platform with real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
